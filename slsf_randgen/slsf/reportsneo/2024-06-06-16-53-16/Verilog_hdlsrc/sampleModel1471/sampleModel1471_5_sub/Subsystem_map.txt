@@ -1,0 +1,13 @@
+sampleModel1471_5_sub/Subsystem/Mysubsystem_10 --> Mysubsystem_10
+sampleModel1471_5_sub/Subsystem/Mysubsystem_28 --> Mysubsystem_28
+sampleModel1471_5_sub/Subsystem/Mysubsystem_30/cfblk1 --> cfblk1
+sampleModel1471_5_sub/Subsystem/Mysubsystem_30 --> Mysubsystem_30
+sampleModel1471_5_sub/Subsystem/Mysubsystem_31 --> Mysubsystem_31
+sampleModel1471_5_sub/Subsystem/cfblk125/Increment Real World --> Increment_Real_World
+sampleModel1471_5_sub/Subsystem/cfblk125/Wrap To Zero --> Wrap_To_Zero
+sampleModel1471_5_sub/Subsystem/cfblk125 --> cfblk125
+sampleModel1471_5_sub/Subsystem/cfblk127 --> cfblk127
+sampleModel1471_5_sub/Subsystem/cfblk129 --> cfblk129
+sampleModel1471_5_sub/Subsystem/DotProduct --> DotProduct
+sampleModel1471_5_sub/Subsystem/DotProduct --> DotProduct_block
+sampleModel1471_5_sub/Subsystem --> Subsystem

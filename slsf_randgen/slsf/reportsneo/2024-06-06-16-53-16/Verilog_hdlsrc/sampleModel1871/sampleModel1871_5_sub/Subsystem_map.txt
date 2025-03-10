@@ -1,0 +1,8 @@
+sampleModel1871_5_sub/Subsystem/cfblk132 --> cfblk132
+sampleModel1871_5_sub/Subsystem/DotProduct --> DotProduct
+sampleModel1871_5_sub/Subsystem/DotProduct --> DotProduct_block
+sampleModel1871_5_sub/Subsystem/DotProduct --> DotProduct_block1
+sampleModel1871_5_sub/Subsystem/DotProduct --> DotProduct_block2
+sampleModel1871_5_sub/Subsystem/DotProduct --> DotProduct_block3
+sampleModel1871_5_sub/Subsystem/DotProduct --> DotProduct_block4
+sampleModel1871_5_sub/Subsystem --> Subsystem

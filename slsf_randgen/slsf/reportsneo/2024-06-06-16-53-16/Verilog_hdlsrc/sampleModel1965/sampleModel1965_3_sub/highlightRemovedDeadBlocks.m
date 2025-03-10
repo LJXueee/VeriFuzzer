@@ -1,0 +1,17 @@
+cs.HiliteType = 'user1';
+cs.ForegroundColor = 'black';
+cs.BackgroundColor = 'red';
+set_param(0, 'HiliteAncestorsData', cs);
+hilite_system('sampleModel1965_3_sub/Subsystem/Mysubsystem_21','user1');
+hilite_system('sampleModel1965_3_sub/Subsystem/Mysubsystem_21/cfblk130','user1');
+hilite_system('sampleModel1965_3_sub/Subsystem/Mysubsystem_21/cfblk149','user1');
+hilite_system('sampleModel1965_3_sub/Subsystem/Mysubsystem_21/cfblk171','user1');
+hilite_system('sampleModel1965_3_sub/Subsystem/Mysubsystem_21/cfblk2','user1');
+hilite_system('sampleModel1965_3_sub/Subsystem/Mysubsystem_21/cfblk2/Delay Input1','user1');
+hilite_system('sampleModel1965_3_sub/Subsystem/Mysubsystem_21/cfblk2/FixPt Relational Operator','user1');
+hilite_system('sampleModel1965_3_sub/Subsystem/Mysubsystem_21/cfblk36','user1');
+hilite_system('sampleModel1965_3_sub/Subsystem/Mysubsystem_21/cfblk64','user1');
+hilite_system('sampleModel1965_3_sub/Subsystem/Mysubsystem_21/cfblk79','user1');
+hilite_system('sampleModel1965_3_sub/Subsystem/cfblk105','user1');
+hilite_system('sampleModel1965_3_sub/Subsystem/cfblk148','user1');
+hilite_system('sampleModel1965_3_sub/Subsystem/cfblk76','user1');

@@ -1,0 +1,13 @@
+vlib work
+vlog  Nonnegative.v
+vlog  cfblk1.v
+vlog  Increment_Real_World.v
+vlog  Wrap_To_Zero.v
+vlog  cfblk131.v
+vlog  DotProduct.v
+vlog  DotProduct_block.v
+vlog  DotProduct_block1.v
+vlog  DotProduct_block2.v
+vlog  DotProduct_block3.v
+vlog  DotProduct_block4.v
+vlog  Subsystem.v

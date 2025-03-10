@@ -1,0 +1,10 @@
+cs.HiliteType = 'user1';
+cs.ForegroundColor = 'black';
+cs.BackgroundColor = 'red';
+set_param(0, 'HiliteAncestorsData', cs);
+hilite_system('sampleModel1811_5_sub/Subsystem/Mysubsystem_15','user1');
+hilite_system('sampleModel1811_5_sub/Subsystem/Mysubsystem_15/cfblk46','user1');
+hilite_system('sampleModel1811_5_sub/Subsystem/Mysubsystem_15/cfblk47','user1');
+hilite_system('sampleModel1811_5_sub/Subsystem/cfblk129','user1');
+hilite_system('sampleModel1811_5_sub/Subsystem/cfblk129/Increment Real World','user1');
+hilite_system('sampleModel1811_5_sub/Subsystem/cfblk129/Wrap To Zero','user1');

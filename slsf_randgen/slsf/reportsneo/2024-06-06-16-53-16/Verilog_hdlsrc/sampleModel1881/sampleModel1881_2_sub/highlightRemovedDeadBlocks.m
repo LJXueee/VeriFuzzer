@@ -1,0 +1,14 @@
+cs.HiliteType = 'user1';
+cs.ForegroundColor = 'black';
+cs.BackgroundColor = 'red';
+set_param(0, 'HiliteAncestorsData', cs);
+hilite_system('sampleModel1881_2_sub/Subsystem/Mysubsystem_11','user1');
+hilite_system('sampleModel1881_2_sub/Subsystem/Mysubsystem_11/cfblk126','user1');
+hilite_system('sampleModel1881_2_sub/Subsystem/Mysubsystem_11/cfblk56','user1');
+hilite_system('sampleModel1881_2_sub/Subsystem/Mysubsystem_7','user1');
+hilite_system('sampleModel1881_2_sub/Subsystem/Mysubsystem_7/cfblk103','user1');
+hilite_system('sampleModel1881_2_sub/Subsystem/Mysubsystem_7/cfblk12','user1');
+hilite_system('sampleModel1881_2_sub/Subsystem/cfblk122','user1');
+hilite_system('sampleModel1881_2_sub/Subsystem/cfblk27','user1');
+hilite_system('sampleModel1881_2_sub/Subsystem/cfblk41','user1');
+hilite_system('sampleModel1881_2_sub/Subsystem/cfblk9','user1');

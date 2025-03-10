@@ -1,0 +1,7 @@
+sampleModel1616_3_sub/Subsystem/DotProduct --> DotProduct
+sampleModel1616_3_sub/Subsystem/DotProduct --> DotProduct_block
+sampleModel1616_3_sub/Subsystem/DotProduct --> DotProduct_block1
+sampleModel1616_3_sub/Subsystem/DotProduct --> DotProduct_block2
+sampleModel1616_3_sub/Subsystem/DotProduct --> DotProduct_block3
+sampleModel1616_3_sub/Subsystem/DotProduct --> DotProduct_block4
+sampleModel1616_3_sub/Subsystem --> Subsystem
